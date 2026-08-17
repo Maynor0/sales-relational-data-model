@@ -1,7 +1,7 @@
 ﻿# Conclusiones
 
 ## Resultado general
-La base 3 permitió construir un flujo completo de trabajo orientado a análisis de datos y business intelligence, partiendo desde una base original amplia hasta llegar a un modelo relacional funcional y visualizable.
+La base permitió construir un flujo completo de trabajo orientado a análisis de datos y business intelligence, partiendo desde una base original amplia hasta llegar a un modelo relacional funcional y visualizable.
 
 ## Principales logros del proyecto
 A lo largo del proyecto se consiguió:
