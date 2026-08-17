@@ -1,4 +1,4 @@
-﻿# SQL - Base 3
+﻿# SQL - Base 
 
 En esta etapa, la base limpia se dividió en varios archivos CSV para representar las tablas del modelo.
 
