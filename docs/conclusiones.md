@@ -35,4 +35,4 @@ Este proyecto no solo muestra visualización de datos, sino también capacidades
 Demuestra limpieza de datos, organización relacional, validación de estructura, análisis de negocio y construcción de dashboards.
 
 ## Cierre
-La base 3 puede presentarse como uno de los proyectos más completos del portafolio, porque integra varias herramientas dentro de un mismo flujo de trabajo y convierte una base compleja en un modelo analítico reutilizable.
+La base puede presentarse como uno de los proyectos más completos del portafolio, porque integra varias herramientas dentro de un mismo flujo de trabajo y convierte una base compleja en un modelo analítico reutilizable.
