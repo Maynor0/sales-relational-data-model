@@ -1,4 +1,4 @@
-﻿# Base 3 - Modelo relacional de ventas
+﻿# Modelo relacional de ventas
 
 ## Descripción
 Este proyecto documenta la limpieza, estructuración y análisis de una base de ventas compuesta por varias tablas relacionadas.
