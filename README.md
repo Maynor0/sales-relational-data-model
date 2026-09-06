@@ -30,11 +30,20 @@ Detalle técnico:
 - `power-query/notas-transformacion.md`
 
 ### 3. SQL
-La base fue dividida en archivos CSV y posteriormente reconstruida en SQL para recrear el modelo relacional.  
-Se crearon tablas para vendedores, sedes, canales, facturas, vehículos y presupuesto, además de consultas de análisis, joins, resúmenes y funciones de ventana.
+La base fue dividida en archivos CSV y posteriormente reconstruida para recrear el modelo relacional de ventas.
 
-Archivo:
-- `sql/Base3.sql`
+Se crearon tablas para vendedores, sedes, canales, facturas, vehículos y presupuesto, además de consultas con `JOIN`, resúmenes, análisis temporal y funciones de ventana.
+
+El modelo fue implementado en dos gestores de bases de datos:
+
+- SQL Server: `sql/Base3.sql`
+- PostgreSQL:
+  - `postgresql/ventas_01_tablas.sql`
+  - `postgresql/ventas_01_cargas.sql`
+  - `postgresql/ventas_02_restricciones.sql`
+  - `postgresql/ventas_03_analisis_clave.sql`
+
+En PostgreSQL se utilizaron tablas permanentes dentro del esquema `ventas`, carga de CSV mediante `\copy`, claves foráneas y una validación de negocio para garantizar que el precio de venta no sea menor que el costo.
 
 ### 4. Power BI
 Se construyó un modelo relacional con tablas y medidas para analizar:
