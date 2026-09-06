@@ -10,6 +10,7 @@ Construir un flujo de trabajo completo desde Excel, Power Query, SQL y Power BI 
 - Excel
 - Power Query
 - SQL Server
+- PostgreSQL
 - Power BI
 
 ## Flujo del proyecto
