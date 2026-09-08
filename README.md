@@ -1,4 +1,4 @@
-﻿# Base 3 - Modelo relacional de ventas
+﻿#Modelo relacional de ventas
 
 ## Descripción
 
