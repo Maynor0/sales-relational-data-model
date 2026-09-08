@@ -79,7 +79,7 @@ El dashboard incluye:
 
 ### Dashboard
 
-![Dashboard de ventas en Excel](capturas/02_dashboard_powerpivot.png)
+![Dashboard de ventas en Excel](capturas/02_dashboard_powerpivot.jpg).
 
 ## Aprendizajes
 
