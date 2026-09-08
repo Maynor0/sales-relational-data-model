@@ -96,7 +96,6 @@ También se desarrollaron páginas de análisis por:
 Archivos visuales:
 
 - `power-bi/capturas/`
-- `power-bi/medidas_dax.md`
 
 ### 5. Power Pivot y DAX en Excel
 
