@@ -75,7 +75,7 @@ El dashboard incluye:
 
 ### Modelo relacional
 
-![Modelo relacional de Power Pivot](capturas/01_modelo_relacional_powerpivot.png)
+![Modelo relacional de Power Pivot](capturas/01_modelo_relacional_powerpivot.jpg).
 
 ### Dashboard
 
